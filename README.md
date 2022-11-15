@@ -1,6 +1,6 @@
 ## Hi there👋
 
-<a href="https://github.com/sider2vf"><img src="https://avatars.githubusercontent.com/u/116246824?v=4" height=120 /><img align="left" width="400" height=120 src="https://streak-stats.demolab.com?user=sider2vf&hide_border=true"><img align="right" width="390" src="https://github.com/sider2vf/sider2vf/blob/main/github-metrics.svg"></a> 
+<a href="https://github.com/sider2vf"><img src="https://avatars.githubusercontent.com/u/116246824?v=4" height=120 /><img height=120 src="https://streak-stats.demolab.com?user=sider2vf&hide_border=true"><img align="right" width="390" src="https://github.com/sider2vf/sider2vf/blob/main/github-metrics.svg"></a> 
 
 - Hello, I'm Gugu 👋, This is a GitHub account representing my blog.
 - ![sider2vf](https://komarev.com/ghpvc/?username=sider2vf) ![sider2vf](https://visitor-badge.deta.dev/badge?page_id=sider2vf.profile)
