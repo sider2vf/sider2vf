@@ -11,6 +11,7 @@
 Email: admin@imgugu.ink
 
 GPG Public Key
+
 (Fingerprint 0xEEEEEEEE):
 
 ```
