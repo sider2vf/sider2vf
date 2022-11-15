@@ -47,4 +47,5 @@ U6IrFh1L6wY=
 - 🌐 zh-CN, zh-TW, en-US
 - 👨‍🎓 Middle School Student
 - ✈️ Telegram Channel: https://t.me/imguguink , And my Group: https://t.me/imguguchat
+- 👓 Too young, too simple, sometimes naive!
 - ⚡ ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff) ![Jetbrains Toolbox](https://img.shields.io/badge/Jetbrains-Toolbox-007ACC?style=flat-square&logo=intellij-idea&logoColor=ffffff) 
