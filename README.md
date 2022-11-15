@@ -10,7 +10,7 @@
  
 Email: admin@imgugu.ink
 
-GPG Public Key:
+GPG Public Key (Fingerprint 0xEEEEEEEE):
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
