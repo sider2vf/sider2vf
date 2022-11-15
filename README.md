@@ -25,4 +25,4 @@ Email: admin@imgugu.ink
 - ✈️ Telegram Channel: https://t.me/imguguink , And my Group: https://t.me/imguguchat
 - ⚡ ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff) ![Jetbrains Toolbox](https://img.shields.io/badge/Jetbrains-Toolbox-007ACC?style=flat-square&logo=intellij-idea&logoColor=ffffff) 
 
-<img align="left" width="440" src="https://streak-stats.demolab.com?user=sider2vf&hide_border=true">
+<img align="left" width="420" src="https://streak-stats.demolab.com?user=sider2vf&hide_border=true">
