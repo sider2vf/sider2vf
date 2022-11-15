@@ -26,4 +26,4 @@ Email: admin@imgugu.ink
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sider2vf&hide_border=true)
 
-<img align="right" width="390" height="31" alt="🦑" src="https://github.com/sider2vf/sider2vf/blob/main/github-metrics.svg"> 
+<img align="right" width="390" height="" alt="🦑" src="https://github.com/sider2vf/sider2vf/blob/main/github-metrics.svg"> 
