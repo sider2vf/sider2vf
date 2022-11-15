@@ -10,7 +10,8 @@
  
 Email: admin@imgugu.ink
 
-GPG Public Key (Fingerprint 0xEEEEEEEE):
+GPG Public Key
+(Fingerprint 0xEEEEEEEE):
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -44,6 +45,5 @@ U6IrFh1L6wY=
 - 🌱 I’m currently learning Java, PHP.
 - 🌐 zh-CN, zh-TW, en-US
 - 👨‍🎓 Middle School Student
-- ✈️ Telegram Channel: https://t.me/imguguink 
-- ✈️ Telegram Group: https://t.me/imguguchat
+- ✈️ Telegram Channel: https://t.me/imguguink , And my Group: https://t.me/imguguchat
 - ⚡ ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff) ![Jetbrains Toolbox](https://img.shields.io/badge/Jetbrains-Toolbox-007ACC?style=flat-square&logo=intellij-idea&logoColor=ffffff) 
