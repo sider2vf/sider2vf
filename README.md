@@ -1,7 +1,6 @@
 ## Hi there👋
 <a href="https://github.com/sider2vf"><img src="https://avatars.githubusercontent.com/u/116246824?v=4" height=120 /></a>
 <a href="https://github.com/sider2vf"><img src="https://github-readme-stats.vercel.app/api?username=sider2vf&show_icons=true&count_private=true" height=120 /></a>
-<a href="https://github.com/sider2vf"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sider2vf" height=120 /></a>
 
 - Hello, I'm Gugu 👋, This is a GitHub account representing my blog.
 - ![sider2vf](https://komarev.com/ghpvc/?username=sider2vf) ![sider2vf](https://visitor-badge.deta.dev/badge?page_id=sider2vf.profile)
