@@ -10,6 +10,8 @@
  
 Email: admin@imgugu.ink
 
+> For security reasons, please send GPG signed and encrypted emails.
+
 GPG Public Key (Fingerprint 0xEEEEEEEE):
 
 ```
