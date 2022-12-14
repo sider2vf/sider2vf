@@ -5,7 +5,6 @@
 - Hello, I'm Gugu 👋, This is a GitHub account representing my blog.
 - ![sider2vf](https://komarev.com/ghpvc/?username=sider2vf) ![sider2vf](https://visitor-badge.deta.dev/badge?page_id=sider2vf.profile)
 
-
 ### MY Contact information
  
 Email: i@gpg.ink
