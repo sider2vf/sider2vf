@@ -8,7 +8,7 @@
 
 ### MY Contact information
  
-Email: admin@imgugu.ink
+Email: i@gpg.ink
 
 > For security reasons, please send GPG signed and encrypted emails.
 
