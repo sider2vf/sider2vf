@@ -40,7 +40,7 @@ CgkQ75TYxu7u7u70sAD/V430vuCE2ms2/0QqzGTTP9dBXw3Xl4ZPIwZp1r11gYMA
 <table><tr><td><a href="https://imgugu.ink">Personal Home Page</a> |
 <a href="https://blog.imgugu.ink">Blog</a> |
 <a href="https://music.imgugu.ink/">Music</a> |
-<a href="https://cloud.imgugu.ink/">OneIndex</a> |
+<a href="https://data.imgugu.ink/">Data</a> |
 <a href="https://moe.imgugu.ink/">Anime Photo API</a></td></tr></table>
 
 ### About ME
