@@ -340,9 +340,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="308.7099368179208" height="8" fill="#083fa1"/>
-                    <rect mask="url(#languages-bar)" x="308.7099368179208" y="0" width="101.93452039058013" height="8" fill="#292929"/>
-                    <rect mask="url(#languages-bar)" x="410.6444572085009" y="0" width="49.35554279149914" height="8" fill="#cb171e"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="308.6922060766183" height="8" fill="#083fa1"/>
+                    <rect mask="url(#languages-bar)" x="308.6922060766183" y="0" width="101.92866578599735" height="8" fill="#292929"/>
+                    <rect mask="url(#languages-bar)" x="410.6208718626156" y="0" width="49.37912813738441" height="8" fill="#cb171e"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1920,7 +1920,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 May 2023, 06:12:37 (timezone Etc/GMT-8) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 16 May 2023, 07:13:12 (timezone Etc/GMT-8) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
