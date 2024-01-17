@@ -379,10 +379,10 @@
                 <div class="row fill-width">
                     <section class="categories">
                         <div class="category column">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="305.97 329"/>
-                                <text x="60" y="60" dominant-baseline="central">93</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="286.23 329"/>
+                                <text x="60" y="60" dominant-baseline="central">87</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -1664,7 +1664,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 8.50m out of 127m users</span>
+                                    <span class="gh">ranked 8.50m out of 128m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">7</div>
                                     </div>
@@ -1875,7 +1875,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 2.92m out of 127m users</span>
+                                    <span class="gh">ranked 2.92m out of 128m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">4</div>
                                     </div>
@@ -2120,7 +2120,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 Jan 2024, 21:17:17 (timezone Etc/GMT-8) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Jan 2024, 22:13:44 (timezone Etc/GMT-8) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
